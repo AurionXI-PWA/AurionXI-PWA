@@ -1,0 +1,24 @@
+{
+  "name": "AurionXI",
+  "short_name": "AurionXI",
+  "description": "A Global Web3 AI-Powered Digital Economy Ecosystem",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcC81_jQooTsAzC7wyj-n0PVvZY7oSZF8U9QHzrplwQZDxnOh9vICgTrhGN2awbxIDX8jv8EU5F84m4cNF6M0AbMXwaBwQ7D-2A0C1exYt9j1bj4c-oBq8jXutxxPIHD5Q93eITuHaRhFzaXbKHjuMGipLYw86uDTv7NwIjGoLO9OMIgtPT6i_c24un8/s320/aurionxi_favicon_512x512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcC81_jQooTsAzC7wyj-n0PVvZY7oSZF8U9QHzrplwQZDxnOh9vICgTrhGN2awbxIDX8jv8EU5F84m4cNF6M0AbMXwaBwQ7D-2A0C1exYt9j1bj4c-oBq8jXutxxPIHD5Q93eITuHaRhFzaXbKHjuMGipLYw86uDTv7NwIjGoLO9OMIgtPT6i_c24un8/s320/aurionxi_favicon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
